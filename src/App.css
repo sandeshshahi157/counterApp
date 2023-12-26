@@ -1,0 +1,51 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Button2 {
+  width: 120px;
+  height: 35px;
+  color: rgb(254, 254, 255);
+  background-color: rgb(100, 100, 250);
+
+}
+
+.Button2:hover {
+  width: 120px;
+  height: 35px;
+  color: rgb(106, 106, 255);
+  background-color: rgb(245, 245, 245);
+
+}
+
+.container2 {
+  align-items: center;
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+
+}
+
+.Buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.Reset {
+  width: 120px;
+  height: 35px;
+  color: rgb(254, 254, 255);
+  background-color: rgb(250, 6, 6);
+
+}
+
+.Reset:hover {
+  width: 120px;
+  height: 35px;
+  color: rgb(255, 0, 0);
+  background-color: rgb(255, 255, 255);
+
+}
